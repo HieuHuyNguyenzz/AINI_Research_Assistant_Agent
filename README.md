@@ -1,6 +1,6 @@
 # AINI Research Assistant Agent
 
-> An AI-powered research assistant designed to support literature discovery, paper analysis, and knowledge synthesis for Artificial Intelligence research.
+> An AI-powered research assistant AINI lab members, designed to support literature discovery, paper analysis, and knowledge synthesis for Artificial Intelligence research 
 
 ## Overview
 
